@@ -1,8 +1,8 @@
-# Fluent::Plugin::Secure::Tcp
+This is tcp plugin with support for standard openssl library. I created it in order to have safe connection between fluentd and nxlog.
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/fluent/plugin/secure/tcp`. To experiment with that code, run `bin/console` for an interactive prompt.
+I won´t support it, because I switched to syslog derivatives. 
 
-TODO: Delete this and the text above, and describe your gem
+Feel free to use it as you like. 
 
 ## Installation
 
@@ -32,5 +32,5 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/fluent-plugin-secure-tcp.
+Bug reports and pull requests are welcome on GitHub at https://github.com/SilverDragon135/fluent-plugin-secure-tcp.
 
